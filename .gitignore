@@ -1,0 +1,9 @@
+
+# Data and build artifacts (course staff). See the README for how to recreate them.
+archive.zip
+books_updated.csv
+ratings_updated.csv
+book_ratings_cleaned.csv
+*.xlsx
+MasterBayesianVenv/
+.DS_Store
