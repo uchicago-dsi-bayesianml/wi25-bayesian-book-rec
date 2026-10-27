@@ -1,0 +1,7 @@
+Hyperparameters found by Bayesian optimization (scikit-optimize gp_minimize) on 2025-03-08,
+copied by course staff from two Word files the authors had saved them in.
+
+Optimal sigma_u:  1.2595968179742412
+Optimal sigma_b:  0.23533042331948476
+Optimal alpha_mu: 4.871402042323151
+Optimal beta_mu:  1.2405795681084912
